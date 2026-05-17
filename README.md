@@ -2,7 +2,7 @@
 
 A C++ based ADS-B telemetry decoding engine using RTL-SDR, featuring a custom-calculated RF antenna and live LCD coordinate tracking.
 
-![Working Setup](media/setup%20image%203.jpg)
+![Working Setup](media/setup%20image%203.jpeg)
 ## 📖 Project Overview
 This project captures live ADS-B (Automatic Dependent Surveillance-Broadcast) signals from aircraft at 1090 MHz. We process the raw RF static into a clean digital stream using C++ and display real-time global coordinates on a dedicated LCD screen. 
 

@@ -20,4 +20,4 @@ This project captures live ADS-B (Automatic Dependent Surveillance-Broadcast) si
 
 ## 👥 Contributors
 * Sasiru Yasith Rasanjana - Development & RF Engineering
-* Isuri - Hardware Integration & System Architecture
+* Isuri Aroma Gunaratne - Hardware Integration & System Architecture

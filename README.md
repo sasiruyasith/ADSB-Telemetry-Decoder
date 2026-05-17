@@ -20,4 +20,4 @@ This project captures live ADS-B (Automatic Dependent Surveillance-Broadcast) si
 
 ## 👥 Contributors
 * Sasiru Yasith Rasanjana - Development & RF Engineering
-* Isuri Aroma Gunaratne - Hardware Integration & System Architecture
+* Isuri Aroma Gunaratne - Hardware Integration & System Architecture(Focused on developing the custom C++ decoding engine, processing the 1090 MHz telecommunications signals, and bridging the RTL-SDR hardware with the Arduino display.)

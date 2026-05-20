@@ -11,13 +11,13 @@ This project captures live ADS-B (Automatic Dependent Surveillance-Broadcast) si
 * **C++ Decoding Engine:** Custom DSP (Digital Signal Processing) pipeline to extract and decode 112-bit telemetry packets.
 * **Live LCD Tracking:** Real-time display of aircraft coordinates (Latitude/Longitude) and flight data.
 * **Hardware Integration:** Seamless connection between the RTL-SDR dongle, processing unit, and I2C LCD.
-
+  
 ## Hardware & Setup
 * RTL-SDR Dongle
 * Custom-built 1090 MHz Antenna
 * I2C LCD Display 
 * Processing PC
-
+  
 ## Contributors
 * Sasiru Yasith Rasanjana - Development & RF Engineering
 * Isuri Aroma Gunaratne - Hardware Integration & System Architecture(Focused on developing the custom C++ decoding engine, processing the 1090 MHz telecommunications signals, and bridging the RTL-SDR hardware with the Arduino display.)
